@@ -63,39 +63,13 @@ let questions = [
   },
    {
     numb: 7,
-    question: " What will be the output of the following Java program?class Output
-
-{
-
-public static void main(String args[])
-
-{
-
-int p = 1;
-
-int q = 2;
-
-int r = 3;
-
-p |= 4;
-
-q >>= 1;
-
-r <<= 1;
-
-p ^= r;
-
-System.out.println(q + ” ” + q + ” ” + r);
-
-}
-
-}",
-    answer: "3 1 6",
+    question: "java supports what type of inheritence?",
+    answer: "Single Inheritence",
     options: [
-    "3 3 6",
-    "2 3 4",
-    "2 2 3",
-    "3 1 6"
+    "Single Inheritence",
+    "Multiple Inheritence",
+    "Multilevel Inheritence",
+    "Hybrid Inheritence"
     ]
   },
    {
@@ -121,5 +95,5 @@ System.out.println(q + ” ” + q + ” ” + r);
     options: [
      "isequals()","isequal()","equals()","equal()"
     ]
-  },
+  }
 ];
