@@ -47,9 +47,9 @@ let questions = [
   {
   numb: 5,
   question: "Which of the following operators can operate on a boolean variable?",
-  answer: "A,B and C",
+  answer: ":?",
   options: [
-    "&&","==","?:","+="
+    "+","-","/",":?"
   ]
 },
     {
@@ -64,7 +64,7 @@ let questions = [
    {
     numb: 7,
     question: "java supports what type of inheritence?",
-    answer: "Single Inheritence",
+    answer: "Multilevel Inheritence",
     options: [
     "Single Inheritence",
     "Multiple Inheritence",
